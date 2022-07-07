@@ -184,7 +184,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>5.1.0.Alpha1</version>
+			<version>6.0.23.Final</version>
 		</dependency>
 		<!-- get() set() toString() -->
 		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
